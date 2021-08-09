@@ -26,6 +26,12 @@ namespace xmldiv
         static void Main(string[] args)
         {
             
+            if(args.Length<8)
+            {
+                Console.WriteLine("Pls. read read.me!!!");
+                Environment.Exit(-1);
+            }
+
             var head= @"<?xml version=""1.0"" encoding=""windows-1251""?>";
             XDocument source;
             Console.WriteLine("Read file "+args[0]);
