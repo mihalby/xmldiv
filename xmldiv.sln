@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xmldiv", "xmldiv.csproj", "{AEFB29C7-18E8-4EDC-9CDA-CDA78056FA32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEFB29C7-18E8-4EDC-9CDA-CDA78056FA32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEFB29C7-18E8-4EDC-9CDA-CDA78056FA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEFB29C7-18E8-4EDC-9CDA-CDA78056FA32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEFB29C7-18E8-4EDC-9CDA-CDA78056FA32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E61632B5-E317-44FC-9DDC-32B6D477A97B}
+	EndGlobalSection
+EndGlobal

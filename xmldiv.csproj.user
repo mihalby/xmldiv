@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>D:\XML\ACC_IB_PLUS_NONEBAL_20210802_3_1251.xml D:\XML\TEMPLATE\01.xml 2500 D:\XML\ACC\ acc_retail ./MSG ./MSG true</StartArguments>
+  </PropertyGroup>
+</Project>
